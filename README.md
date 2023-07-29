@@ -1,10 +1,7 @@
 ![rypter-logo](https://user-images.githubusercontent.com/69627509/201499374-94a1b1a6-f7d3-4f78-b453-b4b06f7bdee0.png)
 
-Certainly! Below is a generated README file for the "Reddit-Clone" repository:
 
 # Reddit Clone
-
-![Reddit Clone Logo](https://github.com/Advait0903/Reddit-Clone/blob/main/images/reddit_clone_logo.png)
 
 Reddit Clone is a web application that replicates some of the core features of the popular social media platform Reddit. The project aims to provide users with a platform where they can create communities, share posts, comment on discussions, and engage with other users in a familiar and intuitive manner.
 
